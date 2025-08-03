@@ -7,13 +7,6 @@
 
 This is a simple and stylish web project that displays interactive profile cards using HTML and CSS. It's great for learning how to structure content using semantic HTML elements, apply modern CSS techniques, and create responsive, interactive UIs without JavaScript.
 
-## 📸 Preview
-
-![Screenshot](./assets/images/preview.png)
-
-> Hover over a card to see the interaction in action!
-
----
 
 ## 🧰 Technologies Used
 
@@ -25,6 +18,7 @@ This is a simple and stylish web project that displays interactive profile cards
 ---
 
 ## 📁 Project Structure
+
 
 
 
