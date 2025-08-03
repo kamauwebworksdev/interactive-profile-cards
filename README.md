@@ -1,4 +1,4 @@
-﻿# interactive-profile-cards
+﻿**interactive-profile-cards**
 
 **Basic Project**
 
@@ -25,6 +25,7 @@ This is a simple and stylish web project that displays interactive profile cards
 ---
 
 ## 📁 Project Structure
+
 
 
 
