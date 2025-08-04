@@ -1,4 +1,3 @@
-﻿**interactive-profile-cards**
 
 # 🌟 Interactive Profile Cards
 
@@ -15,6 +14,7 @@ This is a simple and stylish web project that displays interactive profile cards
 ---
 
 ## 📁 Project Structure
+
 
 
 
