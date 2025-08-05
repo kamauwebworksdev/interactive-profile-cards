@@ -8,7 +8,7 @@ This is a simple and stylish web project that displays interactive profile cards
 
 - HTML5 (for structure)
 - CSS3  (for layout and styling)
-- Google Fonts ✍️ (for custom typography)
+- Google Fonts (for custom typography)
 - Font Awesome 📦 (for icons)
 
 ---
@@ -18,6 +18,7 @@ This is a simple and stylish web project that displays interactive profile cards
 Copy this link and paste it on  your html header>> https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.0/css/all.min.css
 
 From there , you need to go on your browser and search ___https://fontawesome.com/__
+
 
 
 
