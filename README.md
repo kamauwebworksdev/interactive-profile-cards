@@ -11,13 +11,14 @@ This is a simple and stylish web project that displays interactive profile cards
 - Google Fonts (for custom typography)
 - Font Awesome (for icons)
 
----
+
 
 
 **Tip go to google and search Font awesome cdn link**
 Copy this link and paste it on  your html header>> https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.0/css/all.min.css
 
 From there , you need to go on your browser and search ___https://fontawesome.com/__
+
 
 
 
