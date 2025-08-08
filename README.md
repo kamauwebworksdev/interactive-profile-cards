@@ -23,6 +23,14 @@ Copy this __link__ and paste it on  your html header>> https://cdnjs.cloudflare.
 
 From there , you need to go on your browser and search ___https://fontawesome.com/__
 
+## My Github Account
+
+[Visit Github!](https://github.com/kamauwebworksdev/interactive-profile-cards)
+
+##Visit Fiverr account
+[visit Fiverr!](https://www.fiverr.com/users/shantifernandes/seller_dashboard)
+
+
 
 
 
