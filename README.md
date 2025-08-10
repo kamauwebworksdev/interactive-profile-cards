@@ -5,7 +5,7 @@ This is a simple and stylish web project that displays interactive profile cards
 It's great for learning how to structure content using semantic HTML elements, apply modern CSS techniques, and create responsive, interactive UIs without Vanilla Javascript
 
 
-## JavaScript.ddddwwrwrervfg5rgvetg5rsbgryhrgbhbrhbrhfbrydhfcbvsWRGHJKYHRQWRET
+## JavaScript.
 
 
 ## Technologies Used
@@ -38,6 +38,7 @@ From there , you need to go on your browser and search ___https://fontawesome.co
 [visit Fiverr!](https://www.fiverr.com/users/shantifernandes/seller_dashboard)
 
 [Visit my Github!](https://www.fiverr.com/users/shantifernanders/seller dashboard)
+
 
 
 
