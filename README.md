@@ -40,6 +40,11 @@ From there , you need to go on your browser and search ___https://fontawesome.co
 [Visit my Github!](https://www.fiverr.com/users/shantifernanders/seller dashboard)
 
 
+[Visit my Github!](https://www.fiverr.com/users/shantifernanders/seller dashboard)
+
+
+
+
 
 
 
