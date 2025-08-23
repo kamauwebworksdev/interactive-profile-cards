@@ -40,11 +40,14 @@ From there , you need to go on your browser and search ___https://fontawesome.co
 
 [visit Fiverr!](https://www.fiverr.com/users/shantifernandes/seller_dashboard)
 
-[Visit my Github!](https://www.fiverr.com/users/shantifernanders/seller dashboard)
+[Visit my Github!](https://www.fiverr.com/users/shantifernanders/sellerdashboard)
 
 
-[Visit my Github!](https://www.fiverr.com/users/shantifernanders/seller dashboard)
+[Visit my Github!](https://www.fiverr.com/users/shantifernanders/sellerdashboard)
+
+
 [Facebook](https://helllo.com).
+
 
 
 
